@@ -1,0 +1,1001 @@
+
+.header {
+    background-attachment: scroll;
+  background-clip: border-box;
+  background-color: rgb(16, 16, 16);
+  background-image: url("https://www.advertlogix.com/bg-header.jpg");
+  background-origin: padding-box;
+  background-position-x: 50%;
+  background-position-y: 0%;
+  background-size: cover;
+  box-sizing: border-box;
+  color: rgb(72, 73, 78);
+  display: block;
+  font-family: gordita;
+  font-size: 16px;
+  font-weight: 400;
+  height: 240px;
+  left: 0px;
+  line-height: 24px;
+  margin-bottom: 20px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  position: absolute;
+  right: 0px;
+  text-align: start;
+  top: 0px;
+  transition-delay: 0s;
+  transition-duration: 0.4s;
+  transition-property: all;
+  transition-timing-function: ease-out;
+  width: 100%;
+  z-index: 99
+  }
+  
+  .img1 {
+  width: 500px;
+  height: 300px;
+  margin-top: 250px;
+  margin-left: 75px
+  margin-bottom: 100px;
+  border: solid #4B0082 5px
+  
+  }
+  
+  .logo {
+    height: 75px;
+    width: 75px;
+    margin-top: 0px;
+    margin-left: 10px;
+  }
+  .under-logo {
+    text-align: center;
+    color: white;
+  }
+  
+  .header h1 {
+    font-family: cursive;
+    color: white;
+    font-size: 55px;
+    text-align: center;
+  }
+  
+  
+  header h4 {
+    text-align: center;
+    color: white;
+  }
+  
+  svg {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+  }
+  
+  @media (max-width: 600px) {
+    .svg--lg {
+      display: none;
+    }
+    .marketing-img {
+      margin-left: 100px;
+    }
+  
+    .marketing-img img{
+      max-width: 60%;
+      height: auto;
+      margin-left: 800px;
+      display: flex;
+      border: 5px solid lightgrey;
+    }
+    .guarantee {
+      width: 450px;
+    }
+    .about {
+        margin-top: 200px;
+    }
+  
+    .center1 {
+      color: rgb(33, 37, 41);
+      display: flex;
+      font-family: gordita;
+      font-size: 15px;
+      font-weight: 400;
+      height: 268px;
+      letter-spacing: -0.5px;
+      line-height: 24.299999px;
+      margin-block-end: 30px;
+      margin-block-start: 20px;
+      margin-bottom: 300px;
+      margin-inline-end: 0px;
+      margin-inline-start: 0px;
+      margin-left: 30px;
+      margin-right: 0px;
+      margin-top: 20px;
+      padding-bottom: 0px;
+      padding-left: 0px;
+      padding-right: 0px;
+      padding-top: 0px;
+      text-align: start;
+      visibility: visible;
+      width: 450px
+    }
+    .center1 p {
+      width: 425px;
+    }
+    .unordered-list {
+      margin-right: 50px;
+    }
+  .img1 {
+        margin-right: 65px;
+        margin-left: 30px;
+        width: 80%;
+        height: 250px;
+        margin-top: 300px;
+        margin-bottom: 50px;
+        border: #4B0082 5px solid;
+    }
+   .tagline {
+    color: #4B0082;
+    display: block;
+    font-size: 19px;
+    font-weight: 500;
+    height: 46px;
+    letter-spacing: 0.8px;
+    line-height: 28.5px;
+    margin-bottom: 5px;
+    margin-left: 30px !important;
+    margin-right: 0px;
+    margin-top: 0px;
+    padding-bottom: 8px;
+    padding-left: 0px;
+    padding-right: 10px;
+    padding-top: 8px;
+    text-align: start;
+    visibility: visible;
+    width: 300px;
+  }
+  .heading1 {
+    display: block;
+    font-family: Recoleta;
+    font-size: 70px;
+    font-weight: 400;
+    height: 30px;
+    line-height: 30px;
+    margin-block-end: 8px;
+    margin-block-start: 0px;
+    margin-bottom: 8px;
+    margin-inline-end: 0px;
+    margin-inline-start: 0px;
+    margin-left: 30px;
+    margin-right: 0px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    text-align: start;
+    visibility: visible;
+    width: 476px;
+  }
+  
+   .about .img {
+    margin-top: 50px;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+   }
+  .abt1 {
+  display: flex;
+  width: 400px;
+  margin-bottom: 100px;
+  padding-bottom: 125px;
+  }
+   .center {
+    box-sizing: border-box;
+    color: rgb(33, 37, 41);
+    display: flex;
+    font-family: gordita;
+    font-size: 15px;
+    font-weight: 400;
+    height: 168px;
+    letter-spacing: -0.5px;
+    line-height: 24.299999px;
+    margin-block-end: 30px;
+    margin-block-start: 20px;
+    margin-bottom: 30px;
+    margin-inline-end: 0px;
+    margin-inline-start: 0px;
+    margin-left: 30px;
+    margin-right: 0px;
+    margin-top: 20px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    text-align: start;
+    visibility: visible;
+    width: 400px
+  }
+  
+  .www {
+    display: flex;
+  }
+  .what-we-do {
+    margin-left: 30px;
+  }
+  
+  .why {
+    padding-top: 100px;
+    padding-bottom: 50px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+  
+  }
+  .why p {
+    margin-left: 15px;
+    width: 450px;
+  }
+  .why ul {
+    list-style: none;
+    margin-bottom: 50px;
+  }
+  .why img {
+    margin-left: 20px;
+    margin-bottom: 10px;
+    border: 5px white solid;
+  }
+  .why ul li:before {
+    content: '✓';
+    margin-bottom: 50px;
+  }
+  .why h1 {
+    margin-bottom: 30px;
+  }
+  .marketing-img {
+    margin-right: 20px;
+    margin-bottom: 50px;
+  }
+  #contact {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin top: 100px
+    margin-bottom: 50px;
+  }
+  
+  
+  .center ul li{
+    margin: 10px;
+    width: 300px;
+  }
+  .strategy {
+    margin-top: 100px;
+
+  }
+  .strategy h3 {
+    margin-left: 20px;
+
+  }
+  .strategy h1 {
+    margin-left: 20px;
+  }
+
+  .strategy h4 {
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  .strategy ul {
+    list-style: circle;
+  }
+  .strategy img {
+    border-bottom-color: rgb(255, 255, 255);
+border-bottom-left-radius: 100%;
+border-bottom-right-radius: 100%;
+border-bottom-style: solid;
+border-bottom-width: 6px;
+border-image-outset: 0;
+border-image-repeat: stretch;
+border-image-slice: 100%;
+border-image-source: none;
+border-image-width: 1;
+border-left-color: rgb(255, 255, 255);
+border-left-style: solid;
+border-left-width: 6px;
+border-right-color: rgb(255, 255, 255);
+border-right-style: solid;
+border-right-width: 6px;
+border-top-color: rgb(255, 255, 255);
+border-top-left-radius: 100%;
+border-top-right-radius: 100%;
+border-top-style: solid;
+border-top-width: 6px;
+box-shadow: rgb(204, 204, 204) 1px 4px 6px 0px;
+box-sizing: border-box;
+color: rgb(72, 73, 78);
+display: block;
+font-family: gordita;
+font-size: 16px;
+font-weight: 400;
+height: 150px;
+line-height: 24px;
+margin-bottom: 30px;
+margin-left: 20px;
+margin-right: 0px;
+margin-top: 0px;
+max-width: 100%;
+padding-bottom: 0px;
+padding-left: 0px;
+padding-right: 0px;
+padding-top: 0px;
+text-align: start;
+vertical-align: middle;
+width: 150px;
+  }
+  .calendly-inline-widget {
+  padding-top: 150px;
+  display: block
+  padding-right: 125px;
+  }
+  }
+  
+  iframe {
+  margin-top: 30px;
+  margin-left: 75px;
+  }
+  
+  
+  .center {
+    box-sizing: border-box;
+  color: rgb(33, 37, 41);
+  display: block;
+  font-family: gordita;
+  font-size: 15px;
+  font-weight: 400;
+  height: 168px;
+  letter-spacing: -0.5px;
+  line-height: 24.299999px;
+  margin-block-end: 30px;
+  margin-block-start: 20px;
+  margin-bottom: 60px;
+  margin-inline-end: 0px;
+  margin-inline-start: 0px;
+  margin-left: 30px;
+  margin-right: 0px;
+  margin-top: 20px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  text-align: start;
+  visibility: visible;
+  width: 475px
+  }
+  #why-p {
+    display: block;
+    margin: 50px 10px 100px 20px;
+    padding-bottom: 100px;
+    padding-right: 50px;
+  }
+  body {
+    background-color: white;
+  }
+  .about {
+    font-family:'Times New Roman', Times, serif;
+    padding-top: 100px;
+    display: flexbox;
+  }
+  
+  
+  .about p {
+    padding-top: 10px;
+    margin-left: 3%;
+    width: 50%;
+    line-height: 30px;
+    font-size: 20px;
+  }
+  .image {
+    display: flex;
+  }
+  .about img {
+    margin-right: 15px;
+    margin-left: 150px;
+    width: 50%;
+    height: 500px;
+    margin-top: -5%;
+    margin-bottom: 30px;
+    border: #4B0082 5px solid;
+  }
+  .client {
+    background-color: black;
+    height: 1000px;
+  }
+  .client h1 {
+    padding-top: 50px;
+    color: white;
+    text-align: center;
+    font-family: cursive;
+  }
+  .video {
+    padding-top: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 800px;
+  }
+  .client h2 {
+    padding-top: 10px;
+    color: white;
+    text-align: center;
+    font-size: 2.5em;
+  }
+  .client h3 {
+    padding-top: 10px;
+    color: white;
+    text-align: center;
+    font-size: 2.5em;
+    font-family: cursive;
+  }
+  .tagline {
+    color: #4B0082;
+    display: block;
+    font-size: 19px;
+    font-weight: 500;
+    height: 46px;
+    letter-spacing: 0.8px;
+    line-height: 28.5px;
+    margin-bottom: 5px;
+    margin-left: 30px !important;
+    margin-right: 0px;
+    margin-top: 0px;
+    padding-bottom: 8px;
+    padding-left: 0px;
+    padding-right: 10px;
+    padding-top: 8px;
+    text-align: start;
+    visibility: visible;
+    width: 300px;
+  }
+  .heading1 {
+    display: block;
+    font-family: Recoleta;
+    font-size: 20px;
+    font-weight: 400;
+    height: 30px;
+    line-height: 30px;
+    margin-block-end: 8px;
+    margin-block-start: 0px;
+    margin-bottom: 8px;
+    margin-inline-end: 0px;
+    margin-inline-start: 0px;
+    margin-left: 30px;
+    margin-right: 0px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    text-align: start;
+    visibility: visible;
+    width: 476px;
+  }
+  .grid {
+    margin-top: 100px;
+    display: grid;
+    grid-template-rows: 1fr;
+    margin-bottom: 5px;
+  }
+  .grid .first {
+    margin-right: 20px;
+    grid-column: 2 / span 2;;
+    grid-row: 1 / span 2;
+    width: 75%;
+    border: lightgray solid 5px;
+  }
+  .grid .second {
+    margin-left: 10px;
+    width: 75%;
+    grid-column: 1 / span 2;
+    grid-row: 2 / span 2;
+    border: white solid 5px;
+  }
+  .why {
+    margin-top: 100px;
+    background-color: rgb(240, 240, 240);
+   
+  
+  }
+  .why h4 {
+    margin-top: px;
+  }
+  .why h1 {
+    margin-bottom: 10px;
+  }
+  
+  .why img {
+    width: 500px;
+    margin-top: -175px;
+    margin-bottom: 25px;
+  }
+  .why ul {
+    list-style: none;
+    background-color: rgb(240, 240, 240);
+    margin-bottom: 50px;
+    
+  }
+  
+  .why ul li:before {
+   
+    content: '✓';
+    margin-left: 18px;
+    margin-right: 7px;
+  }
+  .strategy {
+    margin-top: 100px;
+  }
+  .strategy h3 {
+    margin-left: 20px;
+  
+  }
+  .strategy h1 {
+    margin-left: 20px;
+  }
+  
+  .strategy h4 {
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  .strategy ul {
+    list-style: circle;
+  }
+ 
+  .strategy img {
+    border-bottom-color: rgb(255, 255, 255);
+  border-bottom-left-radius: 100%;
+  border-bottom-right-radius: 100%;
+  border-bottom-style: solid;
+  border-bottom-width: 6px;
+  border-image-outset: 0;
+  border-image-repeat: stretch;
+  border-image-slice: 100%;
+  border-image-source: none;
+  border-image-width: 1;
+  border-left-color: rgb(255, 255, 255);
+  border-left-style: solid;
+  border-left-width: 6px;
+  border-right-color: rgb(255, 255, 255);
+  border-right-style: solid;
+  border-right-width: 6px;
+  border-top-color: rgb(255, 255, 255);
+  border-top-left-radius: 100%;
+  border-top-right-radius: 100%;
+  border-top-style: solid;
+  border-top-width: 6px;
+  box-shadow: rgb(204, 204, 204) 1px 4px 6px 0px;
+  box-sizing: border-box;
+  color: rgb(72, 73, 78);
+  display: block;
+  font-family: gordita;
+  font-size: 16px;
+  font-weight: 400;
+  height: 150px;
+  line-height: 24px;
+  margin-bottom: 30px;
+  margin-left: 20px;
+  margin-right: 0px;
+  margin-top: 0px;
+  max-width: 100%;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  text-align: start;
+  vertical-align: middle;
+  width: 150px;
+  }
+  #contact {
+    margin top: 100px
+  }
+  .footer {
+    margin-top: 100px;
+    padding-top: 50px;
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-bottom: 20px;
+    background-color: black;
+    text-align: center;
+  
+  
+  }
+  .footer h1 {
+    font-size: 25px;
+    color: white;
+    text-align: center;
+  }
+  .footer h3 {
+    color: rgba(255, 255, 255, 0.6);
+    text-align: center;
+    font-size: 18px;
+  }
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 500px;
+    text-align: center;
+    text-decoration: none;
+  }
+  .contact {
+    margin-bottom: 2000px;
+    position: relative;
+    min-height: 100vh;
+    padding: 50px 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+  }
+  .calendly-inline-widget {
+    margin-top: 50px;
+    padding-right: 50px;
+    margin-right: 100px;
+  }
+  .contact .content {
+    max-width: 880px;
+    text-align: center;
+   
+  }
+  .contact .content h2 {
+    font-size: 36px;
+    font-weight: 500;
+    color: black;
+  }
+  .contact .content p {
+    font-weight: 300;
+    color: black;
+  }
+  .container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  /* Iphone Settings */
+  
+  @media (max-width: 600px) {
+      .svg--lg {
+        display: none;
+      }
+      .marketing-img {
+        margin-left: 100px;
+      }
+  
+      .marketing-img img{
+        max-width: 60%;
+        height: auto;
+        margin-left: 800px;
+        display: flex;
+        border: 5px solid lightgrey;
+      }
+      .guarantee {
+        display: flex;
+      }
+      .about {
+          margin-top: 200px;
+      }
+  
+      .center1 {
+        color: rgb(33, 37, 41);
+        display: flex;
+        font-family: gordita;
+        font-size: 15px;
+        font-weight: 400;
+        height: 168px;
+        letter-spacing: -0.5px;
+        line-height: 24.299999px;
+        margin-block-end: 30px;
+        margin-block-start: 20px;
+        margin-bottom: 100px;
+        margin-inline-end: 0px;
+        margin-inline-start: 0px;
+        margin-left: 30px;
+        margin-right: 0px;
+        margin-top: 20px;
+        padding-bottom: 0px;
+        padding-left: 0px;
+        padding-right: 0px;
+        padding-top: 0px;
+        text-align: start;
+        visibility: visible;
+        width: 400px
+      }
+      .unordered-list {
+        margin-right: 50px;
+      }
+  .img1 {
+          margin-right: 65px;
+          margin-left: 30px;
+          width: 80%;
+          height: 300px;
+          margin-top: 300px;
+          margin-bottom: 50px;
+          border: #4B0082 5px solid;
+      }
+     .tagline {
+      color: #4B0082;
+      display: block;
+      font-size: 19px;
+      font-weight: 500;
+      height: 46px;
+      letter-spacing: 0.8px;
+      line-height: 28.5px;
+      margin-bottom: 5px;
+      margin-left: 30px !important;
+      margin-right: 0px;
+      margin-top: 0px;
+      padding-bottom: 8px;
+      padding-left: 0px;
+      padding-right: 10px;
+      padding-top: 8px;
+      text-align: start;
+      visibility: visible;
+      width: 300px;
+  }
+  .heading1 {
+      display: block;
+      font-family: Recoleta;
+      font-size: 70px;
+      font-weight: 400;
+      height: 30px;
+      line-height: 30px;
+      margin-block-end: 8px;
+      margin-block-start: 0px;
+      margin-bottom: 8px;
+      margin-inline-end: 0px;
+      margin-inline-start: 0px;
+      margin-left: 30px;
+      margin-right: 0px;
+      margin-top: 0px;
+      padding-bottom: 0px;
+      padding-left: 0px;
+      padding-right: 0px;
+      padding-top: 0px;
+      text-align: start;
+      visibility: visible;
+      width: 476px;
+  }
+  .heading2 {
+    display: block;
+    font-family: Recoleta;
+    font-size: 70px;
+    font-weight: 400;
+    height: 30px;
+    line-height: 30px;
+    margin-block-end: 8px;
+    margin-block-start: 0px;
+    margin-bottom: 8px;
+    margin-inline-end: 0px;
+    margin-inline-start: 0px;
+    margin-left: 30px;
+    margin-right: 0px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    text-align: start;
+    visibility: visible;
+    width: 476px;
+    color: white;
+}
+.tagline2 {
+  color: #add8e6;
+  display: block;
+  font-size: 19px;
+  font-weight: 500;
+  height: 46px;
+  letter-spacing: 0.8px;
+  line-height: 28.5px;
+  margin-bottom: 5px;
+  margin-left: 30px !important;
+  margin-right: 0px;
+  margin-top: 0px;
+  padding-bottom: 8px;
+  padding-left: 0px;
+  padding-right: 10px;
+  padding-top: 8px;
+  text-align: start;
+  visibility: visible;
+  width: 300px;
+}
+  
+     .about .img {
+      margin-top: 50px;
+      display: block;
+      justify-content: center;
+      align-items: center;
+      width: 50%;
+     }
+  .abt1 {
+    display: flex;
+    width: 375px;
+    margin-bottom: 30px;
+  }
+     .center {
+      box-sizing: border-box;
+      color: rgb(33, 37, 41);
+      display: flex;
+      font-family: gordita;
+      font-size: 15px;
+      font-weight: 400;
+      height: 168px;
+      letter-spacing: -0.5px;
+      line-height: 24.299999px;
+      margin-block-end: 30px;
+      margin-block-start: 20px;
+      margin-bottom: 30px;
+      margin-inline-end: 0px;
+      margin-inline-start: 0px;
+      margin-left: 30px;
+      margin-right: 0px;
+      margin-top: 20px;
+      padding-bottom: 0px;
+      padding-left: 0px;
+      padding-right: 0px;
+      padding-top: 0px;
+      text-align: start;
+      visibility: visible;
+      width: 100px
+    }
+ .main {
+  padding-top: 20px;
+  background-color: #383838;
+  padding-bottom: 100px;
+ }
+    .www {
+      display: flex;
+      color: white;
+    }
+    .what-we-do {
+      margin-left: 30px;
+      color: white;
+    }
+  
+  .why {
+      padding-top: 100px;
+      padding-bottom: 50px;
+      margin-top: 100px;
+      margin-bottom: 50px;
+  }
+  .why p {
+      margin-left: 15px;
+  }
+  .why ul {
+      list-style: none;
+      margin-bottom: 50px;
+    }
+    .why img {
+      margin-left: 20px;
+      margin-bottom: 5px;
+    }
+    .why ul li:before {
+      content: '✓';
+      margin-bottom: 50px;
+    }
+    .why h1 {
+      margin-bottom: 30px;
+  }
+  .marketing-img {
+    width: ;
+  }
+  #contact {
+      padding-top: 50px;
+      padding-bottom: 50px;
+      margin top: 100px
+      margin-bottom: 50px;
+    }
+  
+  
+    .center ul li{
+      margin: 10px;
+      width: 300px;
+    }
+  .strategy-text {
+    width: 500px;
+  }
+  .strategy {
+    margin-top: 100px;
+
+  }
+  .strategy h3 {
+    margin-left: 20px;
+
+  }
+  .strategy h1 {
+    margin-left: 20px;
+  }
+
+  .strategy h4 {
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  .strategy ul {
+    list-style: circle;
+  }
+  .strategy img {
+    border-bottom-color: rgb(255, 255, 255);
+border-bottom-left-radius: 100%;
+border-bottom-right-radius: 100%;
+border-bottom-style: solid;
+border-bottom-width: 6px;
+border-image-outset: 0;
+border-image-repeat: stretch;
+border-image-slice: 100%;
+border-image-source: none;
+border-image-width: 1;
+border-left-color: rgb(255, 255, 255);
+border-left-style: solid;
+border-left-width: 6px;
+border-right-color: rgb(255, 255, 255);
+border-right-style: solid;
+border-right-width: 6px;
+border-top-color: rgb(255, 255, 255);
+border-top-left-radius: 100%;
+border-top-right-radius: 100%;
+border-top-style: solid;
+border-top-width: 6px;
+box-shadow: rgb(204, 204, 204) 1px 4px 6px 0px;
+box-sizing: border-box;
+color: rgb(72, 73, 78);
+display: block;
+font-family: gordita;
+font-size: 16px;
+font-weight: 400;
+height: 200px;
+line-height: 24px;
+margin-bottom: 30px;
+margin-left: 20px;
+margin-right: 0px;
+margin-top: 0px;
+max-width: 100%;
+padding-bottom: 0px;
+padding-left: 0px;
+padding-right: 0px;
+padding-top: 0px;
+text-align: start;
+vertical-align: middle;
+width: 150px;
+  }
+  .calendly-inline-widget {
+    padding-top: 150px;
+    display: block
+    padding-right: 125px;
+  }
+  
+  iframe {
+    margin-top: 30px;
+    margin-left: 75px;
+  }
+  }
