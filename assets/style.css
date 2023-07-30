@@ -126,7 +126,7 @@
       width: 450px
     }
     .center1 p {
-      width: 425px;
+      width: 375px;
     }
     .unordered-list {
       margin-right: 50px;
@@ -229,7 +229,7 @@
   }
   .what-we-do {
     margin-left: 30px;
-    width: 420px;
+    width: 375px;
   }
   
   .why {
@@ -375,7 +375,7 @@ width: 150px;
   padding-top: 0px;
   text-align: start;
   visibility: visible;
-  width: 475px
+  width: 400px
   }
   #why-p {
     display: block;
@@ -731,7 +731,7 @@ width: 150px;
         padding-top: 0px;
         text-align: start;
         visibility: visible;
-        width: 400px
+        width: 375px
       }
       .unordered-list {
         margin-right: 50px;
@@ -868,7 +868,7 @@ width: 150px;
       padding-top: 0px;
       text-align: start;
       visibility: visible;
-      width: 400px
+      width: 375px
     }
  .main {
   padding-top: 20px;
